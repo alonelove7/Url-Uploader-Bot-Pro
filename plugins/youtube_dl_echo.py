@@ -32,7 +32,7 @@ from pyrogram.errors import UserNotParticipant
 @Tellybots.on_message(filters.private & filters.regex(pattern=".*http.*"))
 async def echo(bot, update):
     await AddUser(bot, update)
-    imog = await update.reply_text("PROCESSING", reply_to_message_id=update.message_id)
+    imog = await update.reply_text("<i>PROCESSING</i>", reply_to_message_id=update.message_id)
     youtube_dl_username = None
     youtube_dl_password = None
     file_name = None
