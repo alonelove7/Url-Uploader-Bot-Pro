@@ -29,7 +29,7 @@ class Translation(object):
 <i><b>Made With 💕 By</b><b></i><i> @Tellybots_4u</b></i>
 """
     ABOUT_TEXT = """
- **🤖 <i><b>Bot :** URL Uploader</b>\n
+ **🤖 <i><b>Bot :** URL Uploader</b></i>\n
  **👲 <i><b>Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b></i>\n
  **👥 <i><b>Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b></i>\n
  **❄️ <i><b>Credits :** Everyone in this journey</b></i>\n
