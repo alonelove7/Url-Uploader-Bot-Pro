@@ -26,7 +26,7 @@ class Translation(object):
 <b>Show Thumbnail</b>
 ➠ <b>Send /showthumb to view custom thumbnail.</b>
 
-<b>Made With 💕 By</b><b></i><i> @Tellybots_4u</b>
+<b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
     ABOUT_TEXT = """
  **🤖 <b>Bot :** URL Uploader</b>\n
