@@ -14,19 +14,19 @@ class Translation(object):
 <i><b>Made With 💕 By</b><b></i><i> @Tellybots_4u</b></i>
 """
     HELP_TEXT = """
-<b>Link to Media or File</b></i>
-➠ <b>Send a link for upload to telegram file or media.</b></i>
+<i><b>Link to Media or File</b></i>
+➠ <i><b>Send a link for upload to telegram file or media.</b></i>
 
-<b>Set Thumbnail</b></i>
-➠ <b>Send a photo to make it as permanent thumbnail.</b></i>
+<i><b>Set Thumbnail</b></i>
+➠ <i><b>Send a photo to make it as permanent thumbnail.</b></i>
 
-<b>Deleting Thumbnail</b></i>
-➠ Send /delthumb to delete thumbnail.</b></i>
+<i><b>Deleting Thumbnail</b></i>
+➠ <i><b>Send /delthumb to delete thumbnail.</b></i>
 
-<b>Show Thumbnail</b></i>
-➠ Send /showthumb to view custom thumbnail.</b></i>
+<i><b>Show Thumbnail</b></i>
+➠ <i><b>Send /showthumb to view custom thumbnail.</b></i>
 
-<b>Made With 💕 By</b><b> @Tellybots_4u</b></i>
+<i><b>Made With 💕 By</b><b></i><i> @Tellybots_4u</b></i>
 """
     ABOUT_TEXT = """
  **🤖 <i><b>Bot :** URL Uploader</b>\n
