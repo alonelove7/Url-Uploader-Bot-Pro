@@ -3,7 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-Pyrogram
+pyrogram==1.4.12
 moviepy
 requests
 psutil
